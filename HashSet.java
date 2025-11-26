@@ -8,7 +8,7 @@ public class HashSet<E> {
 	
 	double loadFact  = 0.75 ;
 	
-	
+	//db
 	LinkedList<E> [] hs ;
 	
 	public HashSet() {
