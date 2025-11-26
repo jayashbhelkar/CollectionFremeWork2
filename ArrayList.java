@@ -2,6 +2,7 @@ package collections;
 
 public class ArrayList<E> implements ResizableArray<E>{
 
+	//Object
 	Object [] ar;
 	int count = 0 ;
 	
